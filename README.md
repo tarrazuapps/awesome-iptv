@@ -134,6 +134,10 @@ Applications with support of IPTV streams.
 - [SupercamBR](https://sourceforge.net/projects/supercambr) - Free iptv player for Android with channels from all over the world.
 
 
+#### Xbox
+
+- [Open IPTV](https://tarrazuapps.wixsite.com/tarrazu-apps/post/support-topics) - Modern IPTV app for the Xbox designed for gamepad and remote control.
+
 #### Smart TV
 
 - [SS IPTV](https://ss-iptv.com/en) - Smart TV application which provided opportunity of IPTV viewing for its users.
